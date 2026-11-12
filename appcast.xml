@@ -3,6 +3,15 @@
     <channel>
         <title>PixelAir Studio</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Wed, 11 Nov 2026 18:35:26 -0800</pubDate>
+            <sparkle:version>0.1.2</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/colorandlight/pixelair-studio-releases/releases/download/v0.1.2/PixelAir-Studio-0.1.2.dmg" length="25005012" type="application/octet-stream" sparkle:edSignature="BzN/IR+2lJRAikpZvH90it1GHEftU22rgwUBz3+f/guM+MKM/b/yTp0Yb5ABtN2t8ozT0/s1WY0MCED8DSmlCQ=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Wed, 11 Nov 2026 17:02:21 -0800</pubDate>
             <sparkle:version>0.1.1</sparkle:version>
